@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Agnes_Chu website</title>
+    <link>/tags/regression/</link>
+    <description>Recent content in regression on Agnes_Chu website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WELLBEING DEMOGRAPHIC CHARACTERISTICS OF TORONTO</title>
+      <link>/2015/07/23/wellbeing-demographic-characteristics-of-toronto/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/wellbeing-demographic-characteristics-of-toronto/</guid>
+      <description>Abstract The paper purposed to study the relationship between total population and total area of Toronto neighbourhood. The study focused on the data visualization tools such as barplots in finding which of the neighbourhood is densley populated, highest number of unemployed people, and many other aspects.The results of the study showed that the most densely populated neighbourhood in Toronto is Bridle Path-Sunnybrook-York Mills with 82100 people followed by Malvern with 44315 people, and Milliken with 262605 people.</description>
+    </item>
+    
+  </channel>
+</rss>
